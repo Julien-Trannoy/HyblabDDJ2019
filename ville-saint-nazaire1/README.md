@@ -8,10 +8,11 @@ Equipe :
 
 Participants : 
 
-- Sciencescom
+- Sciencescom :
 
 - EDNA :
-- Polytech :  
+
+- Polytech : TRANNOY Julien, GOMES Allan
 
 # Installation
 
